@@ -3,7 +3,7 @@ entries:
   eclccserver:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-07T18:39:38.2233995Z"
+    created: "2020-02-08T17:02:38.9433813Z"
     description: A Helm chart for Kubernetes
     digest: b0588cc8373970fb2f0215d29bbe28dab6e8b91cc6e7ecd58ba8bd45314e8103
     name: eclccserver
@@ -11,4 +11,4 @@ entries:
     urls:
     - eclccserver-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-07T18:39:38.2229736Z"
+generated: "2020-02-08T17:02:38.9429502Z"
