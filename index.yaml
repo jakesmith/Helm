@@ -3,9 +3,9 @@ entries:
   dali:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:16:54.5240751Z"
+    created: "2020-02-09T18:23:33.6875671Z"
     description: A Helm chart for Kubernetes
-    digest: d6ea0d5cef48f9e8d4a7c150c3c4ed5da07ee4595a6a9d040cbc1f29ea7bb7c0
+    digest: c9931d4e61244d60b66df2ddfaadfa3ed1337a58377cf7ecddecad588d2faf35
     name: dali
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   eclagent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:16:54.52428Z"
+    created: "2020-02-09T18:23:33.6877517Z"
     description: A Helm chart for Kubernetes
-    digest: 9d5fb7af4edc6d6530365b4faf4cef6237d9b0f49500e4a2b6d65d959f293c65
+    digest: d888819cc7aa3ddc68c60c0f4a4410db10eeb7bc048db6edcd7078f4b163bfdd
     name: eclagent
     type: application
     urls:
@@ -25,9 +25,9 @@ entries:
   eclccserver:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:16:54.5244896Z"
+    created: "2020-02-09T18:23:33.6879853Z"
     description: A Helm chart for Kubernetes
-    digest: bca3eabaf994265321a54314aede4225bbe5bfa936507c2e29d2291e500a8e5b
+    digest: 7bd7b9ef95da9a0de00db56f81b5704758780bdcfd9caf9aeaf321c5d316a133
     name: eclccserver
     type: application
     urls:
@@ -36,12 +36,22 @@ entries:
   esp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:16:54.5247413Z"
+    created: "2020-02-09T18:23:33.6881663Z"
     description: A Helm chart for Kubernetes
-    digest: 803501f84697e4e2fa39483d3659d0bbe9265d82f8787e27a82c00510113db9f
+    digest: 2de7c5643ed151f2a0b005a58df74754b61a3224ff7c1eddb29a9670ded7137c
     name: esp
     type: application
     urls:
     - esp-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-09T18:16:54.5236594Z"
+  thor:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2020-02-09T18:23:33.6885637Z"
+    description: This is a Thor Helm Chart, includes thormaster container and slaves
+    digest: 774fb8e8a72d67af5c7f2797a3e184a7372f0b35720820c470d606deae4a6bb3
+    name: thor
+    urls:
+    - thor-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-09T18:23:33.6871896Z"
