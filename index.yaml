@@ -3,9 +3,9 @@ entries:
   dali:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:23:33.6875671Z"
+    created: "2020-02-09T18:55:47.8311665Z"
     description: A Helm chart for Kubernetes
-    digest: c9931d4e61244d60b66df2ddfaadfa3ed1337a58377cf7ecddecad588d2faf35
+    digest: 8de226bc80eac295f988719159b447f076e3aed52d6dd600219e71e8f209dbd2
     name: dali
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   eclagent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:23:33.6877517Z"
+    created: "2020-02-09T18:55:47.8314289Z"
     description: A Helm chart for Kubernetes
-    digest: d888819cc7aa3ddc68c60c0f4a4410db10eeb7bc048db6edcd7078f4b163bfdd
+    digest: 3bb2dc4f1e59514cb9a66055010474c6c20d0d849944350a5e1c312faec84f47
     name: eclagent
     type: application
     urls:
@@ -25,9 +25,9 @@ entries:
   eclccserver:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:23:33.6879853Z"
+    created: "2020-02-09T18:55:47.8316595Z"
     description: A Helm chart for Kubernetes
-    digest: 7bd7b9ef95da9a0de00db56f81b5704758780bdcfd9caf9aeaf321c5d316a133
+    digest: a04377fb951b5fe333f9d740f0bf9a30bc7f94f30347789fee5fdc93e3bcd64a
     name: eclccserver
     type: application
     urls:
@@ -36,9 +36,9 @@ entries:
   esp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-09T18:23:33.6881663Z"
+    created: "2020-02-09T18:55:47.8319816Z"
     description: A Helm chart for Kubernetes
-    digest: 2de7c5643ed151f2a0b005a58df74754b61a3224ff7c1eddb29a9670ded7137c
+    digest: 8249bb41ea1be46272167ce68a849ac1cc8ce7222245c39e49f53fff70154229
     name: esp
     type: application
     urls:
@@ -47,11 +47,11 @@ entries:
   thor:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2020-02-09T18:23:33.6885637Z"
+    created: "2020-02-09T18:55:47.8323016Z"
     description: This is a Thor Helm Chart, includes thormaster container and slaves
-    digest: 774fb8e8a72d67af5c7f2797a3e184a7372f0b35720820c470d606deae4a6bb3
+    digest: 7a68ec66c0bc30f4ae3f2c2c2874dba612915e4895dfa7b2128021aafc2aa4f8
     name: thor
     urls:
     - thor-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-09T18:23:33.6871896Z"
+generated: "2020-02-09T18:55:47.8306358Z"
