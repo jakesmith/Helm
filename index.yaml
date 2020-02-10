@@ -3,7 +3,7 @@ entries:
   cluster:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-10T15:21:08.5753638Z"
+    created: "2020-02-10T15:50:37.0865196Z"
     dependencies:
     - name: eclccserver
       repository: https://jakesmith.github.io/Helm
@@ -15,7 +15,7 @@ entries:
       repository: https://jakesmith.github.io/Helm
       version: 0.1.0
     description: A Helm chart for Kubernetes
-    digest: 828e4b33c023f18f45fda861dd0552d4c769d78e1be0e5effb545d0964ad0bce
+    digest: c38cf09adc954a7cbe845e2ab1d338af3bf0fb403e07b7c3c6b5b056515f1d1a
     name: cluster
     type: application
     urls:
@@ -24,9 +24,9 @@ entries:
   dali:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-10T15:21:08.5756401Z"
+    created: "2020-02-10T15:50:37.0868026Z"
     description: A Helm chart for Kubernetes
-    digest: 70a2ac4534db6f3f0868a28d2942c4073b679c87fac0e2eb4ca398d9f1916c86
+    digest: de7da3119b673bad003d0695a2d167d9ea43d99d6d0b59bdad09f18decc5b82d
     name: dali
     type: application
     urls:
@@ -35,9 +35,9 @@ entries:
   eclagent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-10T15:21:08.5758178Z"
+    created: "2020-02-10T15:50:37.0871459Z"
     description: A Helm chart for Kubernetes
-    digest: 1dbc368a7fd5ea32f5422e9df7d1eaf0ab825dd54562397093f6d03d922171a0
+    digest: a0b6a06c79aec69f7684d62125a00023167d344132892d69eaea6a1971462a9f
     name: eclagent
     type: application
     urls:
@@ -46,9 +46,9 @@ entries:
   eclccserver:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-10T15:21:08.5760153Z"
+    created: "2020-02-10T15:50:37.0880446Z"
     description: A Helm chart for Kubernetes
-    digest: 442b43921a37dd46114a846e71ffea17e608765fc63035afa25a30257686e202
+    digest: 082dd28fff9e066afdec8fd79d6b8b2c443087e8c58dd58928c176677a610ce6
     name: eclccserver
     type: application
     urls:
@@ -57,9 +57,9 @@ entries:
   esp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-10T15:21:08.5762556Z"
+    created: "2020-02-10T15:50:37.0888272Z"
     description: A Helm chart for Kubernetes
-    digest: e7b6c6082886ef56f74ac0083c2ff4124129b814b4c563ae063673851ee589ec
+    digest: 8ae278c473faae6b833e12c4e448e9942f9bca8ec0d9107c6263f320ebbc75cf
     name: esp
     type: application
     urls:
@@ -68,11 +68,11 @@ entries:
   thor:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2020-02-10T15:21:08.5766901Z"
+    created: "2020-02-10T15:50:37.0891154Z"
     description: This is a Thor Helm Chart, includes thormaster container and slaves
-    digest: 4f57f8ba381b038a14bd475d29620aec17bcd80acf64d1854c7f0ae999f4e7c5
+    digest: 808c38284ec8adaa9d59682edd0283b6a76c673a6a852d9b951f16e952713186
     name: thor
     urls:
     - thor-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-10T15:21:08.5741919Z"
+generated: "2020-02-10T15:50:37.0853439Z"
